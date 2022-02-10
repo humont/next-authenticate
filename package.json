@@ -1,0 +1,16 @@
+{
+  "name": "next-authenticate",
+  "version": "0.0.1",
+  "description": "A magic-link authentication package for Next.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "HuMont <hello@humont.dev> (https://humont.dev)",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/humont/next-authenticate.git"
+  }
+}
